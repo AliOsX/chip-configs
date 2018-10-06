@@ -1,0 +1,4 @@
+etc/* /etc/
+usr/* /usr/
+share/* /usr/share/
+menu/* /usr/share/applications/
